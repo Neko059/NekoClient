@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Created by : Farhan\nPertama menggunakan restart dulu game nya :3",
+        "name": "§lNeko§4Client",
+        "uuid": "7091d946-d221-4a8a-8a38-3a82acad2c32",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 18, 31]
+    },
+    "modules": [
+        {
+            "description": "Created by : Farhan\nPertama menggunakan restart dulu game nya :3",
+            "type": "resources",
+            "uuid": "504efca5-9e83-4771-9a3c-ee605e04ca0f",
+            "version": [1, 0, 0]
+        }
+    ]
+}
