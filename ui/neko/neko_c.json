@@ -157,60 +157,6 @@
       "size": [ "100%" , "100%" ]
     },
 
-    /////////////////////////////////////////////////
-    ///                                           ///
-    /// Background  play,main,settings            ///
-    ///                                           ///
-    /////////////////////////////////////////////////
-
-    "bg_profile_name": {
-      "type": "image",
-      "texture": "textures/neko/bg/bg_profile_name"
-    },
-
-    "bg_main_screen": {
-      "type": "image",
-      "layer": 1,
-      "fill": true,
-      "bilinear": true,
-      "uv_size": [ "100%c", "100%" ],
-      "texture": "textures/neko/bg/bg_main_screen"
-    },
-
-    "bg_main_screen_anim": {
-      "type": "image",
-      "layer": 5,
-      "alpha": "@anim_test.alpha_bg",
-      "texture": "textures/neko/bg/bg_pengaturan",
-      "fill": true,
-      "bilinear": true
-    },
-
-    "bg_settings_screen": {
-      "type": "image",
-      "texture": "textures/neko/bg/bg_pengaturan",
-      "layer": 2,
-      "bilinear": true,
-      "fill": true
-    },
-
-    "bg_play_screen": {
-      "type": "image",
-      "layer": 1,
-      "texture": "textures/neko/bg/bg_play_screen",
-      "bilinear": true,
-      "fill": true
-    },
-
-    "bg_play_screen_gradient": {
-      "type": "image",
-      "layer": 2,
-      "alpha":"@anim_test.alpha_bg",
-      "texture": "textures/neko/bg/bg_play_screen_gradient",
-      "bilinear": true,
-      "fill": true
-    },
-
     ///////////////////////////////////////
     //
     // S E T T I N G S
